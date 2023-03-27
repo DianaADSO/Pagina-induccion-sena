@@ -1,0 +1,30 @@
+
+main p{
+    width: 80%;
+    height: 450px;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+}
+
+
+.menu{
+    display: inline;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.i{
+    position: relative;
+    width: 150px;
+    left: 450px;
+    top: 30px;
+    
+}
+h1{
+    position: relative;
+    color: #096d47;
+    top: 30px;
+}

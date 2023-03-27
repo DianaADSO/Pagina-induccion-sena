@@ -1,0 +1,87 @@
+@import url(header.css);
+@import url(footer.css);
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    font-family: arial;
+    
+}
+body main{
+    width: 90%;
+    height: 900px;
+    border: 5px solid green;
+    margin: 0 auto;
+}
+header{
+    font-family: 'Alkatra', cursive;
+}
+main .menu{
+    width: 90%;
+    height: 45px;
+    margin: 0 auto;
+    background-color: #06a15f;
+    position: relative;
+    top: 30px;
+}
+main p{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+    background-color: #06a15f;
+
+}
+
+
+.menu{
+    display: inline;
+    display: flex;
+    justify-content: center;
+   
+}
+.menu a{
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    
+}
+
+
+.i{
+    position: relative;
+    width: 230px;
+    left: 450px;
+    top: -210px;
+    
+}
+h1{
+    position: relative;
+    color: #096d47;
+    top: 27px;
+}
+.uno{
+    display: block;
+    width: 100px;
+    height: auto;
+    background-color:#249A89 ;
+}
+.tres{
+    display: block;
+    width: 100px;
+    height: auto;
+    background-color: #128f7e;
+}
+.cinco{
+    display: block;
+    width: 100px;
+    height: auto;
+    background-color: #128879; 
+}
+.siete{
+    display: block;
+    width: 100px;
+    height: auto;
+    background-color: #278a7c;
+}

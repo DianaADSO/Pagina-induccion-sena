@@ -1,0 +1,57 @@
+@import url(header.css);
+@import url(footer.css);
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    
+}
+body main{
+    width: 90%;
+    height: 900px;
+    border: 5px solid green;
+    margin: 0 auto;
+}
+main .menu{
+    width: 90%;
+    height: 45px;
+    margin: 0 auto;
+    background-color: #06a15f;
+    position: relative;
+    top: 30px;
+}
+main p{
+    width: 90%;
+    height: 320px;
+   
+    position: relative;
+    top: 60px;
+}
+
+
+.menu{
+    display: inline;
+    display: flex;
+    justify-content: center;
+   
+}
+.menu a{
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    
+}
+h1{
+    position: relative;
+    color: #096d47;
+    top: 40px;
+
+}
+.i{
+    position: relative;
+    width: 230px;
+    left: 440px;
+    top: -100px;
+    
+}

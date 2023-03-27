@@ -1,0 +1,32 @@
+body header{
+    width: 90%;
+    height: 120px;
+    background-color:#46BE61;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+header img{
+    width: 100px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+
+}
+header h1{
+    width: 100%;
+    position: relative;
+    left: 130px;
+    top: -110px;
+    color: #004C2B ;
+}
+header h2{
+    width: 100% ;
+    position: relative;
+    left: 130px;
+    top: -110px;
+    color: #004C2B ;
+}
+
